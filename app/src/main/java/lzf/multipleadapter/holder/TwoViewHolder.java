@@ -4,8 +4,9 @@ import android.content.Context;
 import android.view.View;
 import android.widget.TextView;
 
-import lzf.design.mode.R;
-import lzf.design.mode.muti.type.TwoType;
+import lzf.multipleadapter.R;
+import lzf.multipleadapter.type.TwoType;
+
 
 /**
  * Created by Administrator on 2017/4/7 0007.

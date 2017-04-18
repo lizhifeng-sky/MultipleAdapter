@@ -2,9 +2,10 @@ package lzf.multipleadapter.type;
 
 import android.view.View;
 
-import lzf.design.mode.R;
-import lzf.design.mode.muti.holder.BaseViewHolder;
-import lzf.design.mode.muti.holder.TwoViewHolder;
+import lzf.multipleadapter.R;
+import lzf.multipleadapter.holder.BaseViewHolder;
+import lzf.multipleadapter.holder.TwoViewHolder;
+
 
 /**
  * Created by Administrator on 2017/4/7 0007.
